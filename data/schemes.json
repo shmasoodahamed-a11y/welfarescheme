@@ -1,0 +1,482 @@
+[
+  {
+    "id": "SW-01",
+    "department": { "en": "Social Welfare Department", "mn": "ꯁꯣꯁꯤꯑꯦꯜ ꯋꯦꯜꯐꯦꯌꯔ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Chief Minister-gi Shotharabasingi Tengbang (CMST)", "mn": "Chief Minister-gi Shotharabasingi Tengbang (CMST)" },
+    "target_group": { "en": "Persons with Disabilities (PwD)", "mn": "ꯁꯣꯊꯔꯕ / ꯑꯋꯥꯕ ꯇꯥꯔꯕ ꯃꯤꯑꯣꯏꯁꯤꯡ (PwD)" },
+    "description": {
+      "en": "Maintenance allowance of ₹1,500/month for benchmark disability, free travel concessions on state buses, caregiver allowances, and motorized tricycles.",
+      "mn": "ꯑꯋꯥꯕ ꯇꯥꯔꯕ ꯃꯤꯑꯣꯏꯁꯤꯡꯒꯤ ꯊꯥꯒꯤ ꯁꯦꯟꯊꯣꯛ ₹꯱,꯵꯰꯰, ꯃꯣꯇꯣꯔ ꯇ꯭ꯔꯥꯏꯁꯥꯏꯀꯜ ꯑꯃꯁꯨꯡ ꯂꯝꯕꯤ-ꯆꯠꯊꯣꯛꯀꯤ ꯈꯨꯗꯣꯡꯆꯥꯕ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2450228 / 1800-345-3850",
+    "criteria": { "is_pwd": true, "min_disability_percent": 40, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Disability Certificate / UDID Card (min. 40%)", "mn": "Disability Certificate / UDID ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "District Medical Board / CMO Office / Swavlamban Portal", "mn": "ꯗꯤꯁ꯭ꯇ꯭ꯔꯤꯛ ꯃꯦꯗꯤꯀꯦꯜ ꯕꯣꯔ꯭ꯗ / CMO ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Manipur Domicile Certificate / PRC", "mn": "ꯃꯅꯤꯄꯨꯔ Domicile Certificate / PRC" },
+        "where_to_get": { "en": "Concerned SDO / DC Office", "mn": "ꯃꯔꯤ ꯂꯩꯅꯕ SDO / DC ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Aadhaar Card", "mn": "ꯑꯥꯙꯥꯔ ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "UIDAI Enrolment Kiosk / Nearest CSC", "mn": "ꯃꯅꯥꯛ ꯅꯛꯄ CSC / ꯑꯥꯙꯥꯔ ꯁꯦꯟꯇꯔ" }
+      },
+      {
+        "name": { "en": "Bank Account Passbook (Aadhaar Linked)", "mn": "ꯕꯦꯡꯛ ꯄꯥꯁꯕꯨꯛ" },
+        "where_to_get": { "en": "Any Nationalized / Cooperative Bank branch", "mn": "ꯕꯦꯡꯛ ꯕ꯭ꯔꯥꯟꯆ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Submit application to District Social Welfare Officer (DSWO) or apply online via Manipur Social Welfare Portal.",
+      "mn": "ꯃꯦꯗꯤꯀꯦꯜ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ ꯂꯣꯏꯅꯅ DSWO ꯑꯣꯐꯤꯁꯇꯥ ꯊꯥꯡꯒꯠꯄꯤꯌꯨ ꯅꯠꯇ꯭ꯔꯒ ꯑꯣꯐꯤꯁꯤꯑꯦꯜ ꯄꯣꯔꯇꯦꯜꯗꯥ ꯑꯞꯂꯥꯏ ꯇꯧꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Social Welfare Directorate Portal",
+    "portal_url": "https://socialwelfare.mn.gov.in"
+  },
+  {
+    "id": "SW-02",
+    "department": { "en": "Social Welfare Department", "mn": "ꯁꯣꯁꯤꯑꯦꯜ ꯋꯦꯜꯐꯦꯌꯔ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Manipur Old Age Pension Scheme (MOAPS / IGNOAPS)", "mn": "ꯃꯅꯤꯄꯨꯔ ꯑꯍꯜ-ꯂꯃꯟꯁꯤꯡꯒꯤ ꯄꯦꯟꯁꯟ ꯁ꯭ꯀꯤꯝ (MOAPS)" },
+    "target_group": { "en": "Senior Citizens (Aged 60+)", "mn": "ꯆꯍꯤ ꯶꯰ ꯂꯥꯟꯈ꯭ꯔꯕ ꯑꯍꯜ-ꯂꯃꯟꯁꯤꯡ" },
+    "description": {
+      "en": "Monthly financial pension assistance of ₹500 to ₹1,000 for destitute senior citizens belonging to BPL households.",
+      "mn": "BPL ꯏꯃꯨꯡꯒꯤ ꯆꯍꯤ ꯶꯰ ꯂꯥꯟꯈ꯭ꯔꯕ ꯑꯍꯜꯁꯤꯡꯗꯥ ꯊꯥ ꯈꯨꯗꯤꯡꯒꯤ ꯂꯨꯄꯥ ꯵꯰꯰–꯱,꯰꯰꯰ ꯒꯤ ꯄꯦꯟꯁꯟ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2450228",
+    "criteria": { "min_age": 60, "bpl_or_aay": true, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Age Proof (Aadhaar / Voter ID / Birth Certificate)", "mn": "ꯆꯍꯤꯒꯤ ꯄ꯭ꯔꯨꯐ (ꯑꯥꯙꯥꯔ / ꯚꯣꯇꯔ ꯀꯥꯔ꯭ꯗ)" },
+        "where_to_get": { "en": "Election Commission / Municipal Board / SDO", "mn": "SDO / ꯏꯂꯦꯛꯁꯟ ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "BPL Ration Card / DC Verification Slip", "mn": "BPL ꯀꯥꯔ꯭ꯗ / DC ꯏꯅꯀꯝ ꯄ꯭ꯔꯨꯐ" },
+        "where_to_get": { "en": "CAF & PD Department / Deputy Commissioner Office", "mn": "CAF & PD ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ / DC ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Active Bank Passbook", "mn": "ꯕꯦꯡꯛ ꯄꯥꯁꯕꯨꯛ" },
+        "where_to_get": { "en": "Concerned Bank Branch", "mn": "ꯕꯦꯡꯛ ꯕ꯭ꯔꯥꯟꯆ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Apply through local Gram Panchayat / Municipal Council or the District Social Welfare Office (DSWO).",
+      "mn": "ꯒ꯭ꯔꯥꯝ ꯄꯪꯆꯥꯌꯠ / ꯃ꯭ꯌꯨꯅꯤꯁꯤꯄꯥꯜ ꯀꯥꯎꯟꯁꯤꯜ ꯅꯠꯇ꯭ꯔꯒ DSWO ꯑꯣꯐꯤꯁꯇꯥ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "e-Service Manipur Portal",
+    "portal_url": "https://www.eservicesmanipur.gov.in"
+  },
+  {
+    "id": "SW-03",
+    "department": { "en": "Social Welfare Department", "mn": "ꯁꯣꯁꯤꯑꯦꯜ ꯋꯦꯜꯐꯦꯌꯔ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Chief Minister Widow Pension Scheme (CMWPS)", "mn": "Chief Minister Widow Pension Scheme (CMWPS)" },
+    "target_group": { "en": "Widowed Women (Aged 40–59)", "mn": "ꯆꯍꯤ ꯴꯰-꯵꯹ ꯒꯤ ꯂꯨꯈ꯭ꯔꯥꯕꯤ ꯅꯨꯄꯤꯁꯤꯡ" },
+    "description": {
+      "en": "Monthly subsistence pension of ₹500 directly transferred to bank accounts of destitute widows without institutional support.",
+      "mn": "ꯂꯥꯏꯔꯕ ꯂꯨꯈ꯭ꯔꯥꯕꯤ ꯅꯨꯄꯤꯁꯤꯡꯒꯤ ꯊꯥ ꯈꯨꯗꯤꯡꯒꯤ ꯂꯨꯄꯥ ꯵꯰꯰ ꯕꯦꯡꯛ ꯑꯦꯀꯥꯎꯟ꯭ꯇꯇꯥ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2450228",
+    "criteria": { "min_age": 40, "bpl_or_aay": true, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Husband's Death Certificate", "mn": "ꯃꯄꯨꯔꯣꯏꯕꯒꯤ ꯗꯦꯊ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ" },
+        "where_to_get": { "en": "Registrar of Births & Deaths / Municipal Corporation", "mn": "ꯔꯦꯖꯤꯁ꯭ꯇ꯭ꯔꯥꯔ ꯑꯣꯐ ꯕꯔ꯭ꯊ ꯑꯦꯟꯗ ꯗꯦꯊ" }
+      },
+      {
+        "name": { "en": "BPL / Ration Card Copy", "mn": "BPL / ꯔꯦꯁꯟ ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "CAF & PD Department", "mn": "CAF & PD ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Aadhaar Card & Bank Passbook", "mn": "ꯑꯥꯙꯥꯔ ꯑꯃꯁꯨꯡ ꯕꯦꯡꯛ ꯄꯥꯁꯕꯨꯛ" },
+        "where_to_get": { "en": "Enrolment Centre & Bank Branch", "mn": "ꯑꯥꯙꯥꯔ ꯁꯦꯟꯇꯔ ꯑꯃꯁꯨꯡ ꯕꯦꯡꯛ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Submit prescribed form with death certificate to District Social Welfare Officer (DSWO).",
+      "mn": "DSWO ꯑꯣꯐꯤꯁꯇꯥ ꯗꯦꯊ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ ꯂꯣꯏꯅꯅ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Manipur Social Welfare Portal",
+    "portal_url": "https://socialwelfare.mn.gov.in"
+  },
+  {
+    "id": "SW-04",
+    "department": { "en": "Social Welfare Department", "mn": "ꯁꯣꯁꯤꯑꯦꯜ ꯋꯦꯜꯐꯦꯌꯔ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "National Family Benefit Scheme (NFBS)", "mn": "National Family Benefit Scheme (NFBS)" },
+    "target_group": { "en": "BPL Households on Death of Primary Breadwinner", "mn": "ꯏꯃꯨꯡꯒꯤ ꯃꯔꯨꯑꯣꯏꯕ ꯁꯦꯟꯊꯣꯛ ꯊꯤꯔꯤꯕ ꯃꯤ ꯁꯤꯈ꯭ꯔꯕ BPL ꯏꯃꯨꯡ" },
+    "description": {
+      "en": "Lump-sum financial assistance of ₹20,000 to the bereaved household following the death of the primary earner aged 18–59 years.",
+      "mn": "ꯆꯍꯤ ꯱꯸-꯵꯹ ꯒꯤ ꯃꯅꯨꯡꯗꯥ ꯏꯃꯨꯡꯒꯤ ꯃꯔꯨꯑꯣꯏꯕ ꯃꯤ ꯁꯤꯈ꯭ꯔꯕꯗꯤ ꯂꯨꯄꯥ ꯲꯰,꯰꯰꯰ ꯒꯤ ꯑꯃꯨꯛ ꯍꯟꯅ ꯄꯤꯕ ꯃꯇꯦꯡ꯫"
+    },
+    "helpline": "0385-2450228",
+    "criteria": { "bpl_or_aay": true, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Death Certificate of the Breadwinner", "mn": "ꯁꯤꯈ꯭ꯔꯕ ꯃꯤꯑꯣꯏꯒꯤ ꯗꯦꯊ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ" },
+        "where_to_get": { "en": "Registrar of Births & Deaths / SDO", "mn": "SDO / ꯃ꯭ꯌꯨꯅꯤꯁꯤꯄꯥꯜ ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Legal Heir / Family Verification Certificate", "mn": "Family Verification Certificate" },
+        "where_to_get": { "en": "Concerned SDO / DC Office", "mn": "SDO / DC ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "BPL Ration Card", "mn": "BPL ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "CAF & PD Department", "mn": "CAF & PD ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Apply within 6 months of death through the SDO Office or District Social Welfare Officer.",
+      "mn": "ꯃꯤ ꯁꯤꯈ꯭ꯔꯕ ꯊꯥ ꯶ ꯀꯤ ꯃꯅꯨꯡꯗꯥ SDO ꯅꯠꯇ꯭ꯔꯒ DSWO ꯑꯣꯐꯤꯁꯇꯥ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "e-Service Manipur Portal",
+    "portal_url": "https://www.eservicesmanipur.gov.in"
+  },
+  {
+    "id": "SW-05",
+    "department": { "en": "Social Welfare Department", "mn": "ꯁꯣꯁꯤꯑꯦꯜ ꯋꯦꯜꯐꯦꯌꯔ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Unemployment Allowance for Persons with Disabilities", "mn": "ꯁꯣꯊꯔꯕ ꯃꯤꯑꯣꯏꯁꯤꯡꯒꯤ ꯊꯕꯛ ꯐꯪꯗꯕꯒꯤ ꯃꯇꯦꯡ (Unemployment Allowance)" },
+    "target_group": { "en": "Unemployed Educated Persons with Disabilities", "mn": "ꯂꯥꯏꯔꯤꯛ ꯇꯝꯂꯕ ꯊꯕꯛ ꯐꯪꯗ꯭ꯔꯤꯕ ꯁꯣꯊꯔꯕ ꯃꯤꯑꯣꯏꯁꯤꯡ" },
+    "description": {
+      "en": "Financial stipend for PwDs registered with Special Employment Exchange for >2 years without gainful employment.",
+      "mn": "Special Employment Exchange ꯇꯥ ꯆꯍꯤ ꯲ ꯍꯦꯟꯅ ꯔꯦꯖꯤꯁ꯭ꯇꯔ ꯇꯧꯔꯒ ꯊꯕꯛ ꯐꯪꯗ꯭ꯔꯤꯕ PwD ꯁꯤꯡꯗꯥ ꯁꯦꯟꯊꯣꯛ ꯃꯇꯦꯡ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2450228",
+    "criteria": { "is_pwd": true, "occupation": "unemployed", "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Special Employment Exchange Card (>2 Years)", "mn": "Employment Exchange ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "Special Employment Exchange, Lamphelpat", "mn": "Special Employment Exchange, Lamphelpat" }
+      },
+      {
+        "name": { "en": "Disability Certificate (40%+)", "mn": "Disability Certificate" },
+        "where_to_get": { "en": "Competent Medical Board", "mn": "ꯃꯦꯗꯤꯀꯦꯜ ꯕꯣꯔ꯭ꯗ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Submit application to Directorate of Social Welfare through Special Employment Exchange Lamphelpat.",
+      "mn": "Special Employment Exchange Lamphelpat ꯒꯤ ꯈꯨꯠꯊꯥꯡꯗꯥ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Social Welfare Manipur",
+    "portal_url": "https://socialwelfare.mn.gov.in"
+  },
+  {
+    "id": "HL-01",
+    "department": { "en": "Health Department / State Health Agency", "mn": "ꯍꯛꯁꯦꯜ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Chief Minister-gi Hakshelgi Tengbang (CMHT)", "mn": "Chief Minister-gi Hakshelgi Tengbang (CMHT)" },
+    "target_group": { "en": "AAY Cardholders, BPL, Widows, and PwD", "mn": "AAY ꯀꯥꯔ꯭ꯗ ꯂꯩꯕ, ꯂꯥꯏꯔꯕ, ꯂꯨꯈ꯭ꯔꯥꯕꯤ ꯑꯃꯁꯨꯡ PwD" },
+    "description": {
+      "en": "Cashless hospitalization coverage up to ₹5,00,000 per family/year across empaneled hospitals, plus ₹300 transport allowance per hospital visit.",
+      "mn": "ꯏꯃꯨꯡ ꯑꯃꯗꯥ ꯆꯍꯤ ꯑꯃꯗꯥ ꯂꯨꯄꯥ ꯂꯥꯈ ꯵ ꯐꯥꯎꯕꯒꯤ ꯐ꯭ꯔꯤ ꯍꯤꯗꯥꯛ-ꯂꯥꯡꯊꯛ ꯑꯃꯁꯨꯡ ꯂꯝꯕꯤ-ꯆꯠꯊꯣꯛꯀꯤ ₹꯳꯰꯰ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "1800-103-2015 (Toll-Free)",
+    "criteria": { "bpl_or_aay": true, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Original Ration / AAY Card", "mn": "ꯔꯦꯁꯟ / AAY ꯀꯥꯔ꯭ꯗ (Original)" },
+        "where_to_get": { "en": "CAF & PD Department Manipur", "mn": "CAF & PD ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" }
+      },
+      {
+        "name": { "en": "Aadhaar Card (All family members)", "mn": "ꯏꯃꯨꯡꯒꯤ ꯃꯤ ꯈꯨꯗꯤꯡꯃꯛꯀꯤ ꯑꯥꯙꯥꯔ ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "UIDAI Enrolment Kiosk", "mn": "ꯑꯥꯙꯥꯔ ꯁꯦꯟꯇꯔ" }
+      },
+      {
+        "name": { "en": "DC / SDO Income Verification Slip", "mn": "DC / SDO ꯏꯅꯀꯝ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ" },
+        "where_to_get": { "en": "District Deputy Commissioner Office", "mn": "ꯗꯤꯁ꯭ꯇ꯭ꯔꯤꯛ DC ꯑꯣꯐꯤꯁ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Visit CMHT kiosk at JNIMS, RIMS, or District Hospitals with original ration card and Aadhaar for instant biometric card issuance.",
+      "mn": "JNIMS, RIMS ꯅꯠꯇ꯭ꯔꯒ ꯗꯤꯁ꯭ꯇ꯭ꯔꯤꯛ ꯍꯣꯁ꯭ꯄꯤꯇꯥꯜꯗꯥ ꯂꯩꯕ CMHT ꯀꯤꯑꯣꯁ꯭ꯛꯇꯥ ꯔꯦꯁꯟ ꯀꯥꯔ꯭ꯗ ꯂꯧꯗꯨꯅ ꯆꯠꯄꯤꯌꯨ꯫"
+    },
+    "portal_name": "CMHT Beneficiary Portal",
+    "portal_url": "https://cmhtmanipur.gov.in"
+  },
+  {
+    "id": "HL-02",
+    "department": { "en": "Health Department / State Health Agency", "mn": "ꯍꯛꯁꯦꯜ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Ayushman Bharat - PMJAY (Manipur)", "mn": "Ayushman Bharat - PMJAY (Manipur)" },
+    "target_group": { "en": "SECC 2011 Deprivation List Households", "mn": "SECC 2011 ꯗꯥ ꯌꯥꯎꯕ ꯂꯥꯏꯔꯕ ꯏꯃꯨꯡꯁꯤꯡ" },
+    "description": {
+      "en": "National health protection providing ₹5,00,000 cashless cover per family/year for secondary and tertiary hospitalization across India.",
+      "mn": "ꯏꯟꯗꯤꯌꯥ ꯁꯤꯟꯕ ꯊꯨꯡꯅ ꯂꯨꯄꯥ ꯂꯥꯈ ꯵ ꯒꯤ ꯐ꯭ꯔꯤ ꯍꯤꯗꯥꯛ-ꯂꯥꯡꯊꯛ ꯍꯣꯁ꯭ꯄꯤꯇꯥꯜ ꯀꯚꯔ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "14555 (National Helpline)",
+    "criteria": { "bpl_or_aay": true, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Aadhaar Card", "mn": "ꯑꯥꯙꯥꯔ ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "UIDAI Enrolment Kiosk", "mn": "ꯑꯥꯙꯥꯔ ꯁꯦꯟꯇꯔ" }
+      },
+      {
+        "name": { "en": "Ration Card / PMJAY Family Letter", "mn": "ꯔꯦꯁꯟ ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "CAF & PD Department", "mn": "CAF & PD ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Check name at nearest Ayushman Bharat kiosk in District Hospital or Common Service Centre (CSC) for Ayushman Card generation.",
+      "mn": "ꯗꯤꯁ꯭ꯇ꯭ꯔꯤꯛ ꯍꯣꯁ꯭ꯄꯤꯇꯥꯜ ꯅꯠꯇ꯭ꯔꯒ CSC ꯁꯦꯟꯇꯔꯗꯥ ꯑꯥꯌꯨꯁꯃꯥꯟ ꯀꯥꯔ꯭ꯗ ꯁꯦꯝꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "National Health Authority PMJAY",
+    "portal_url": "https://pmjay.gov.in"
+  },
+  {
+    "id": "ED-01",
+    "department": { "en": "Tribal Affairs & Hills Department", "mn": "ꯇ꯭ꯔꯥꯏꯕꯦꯜ ꯑꯦꯐꯦꯌꯔꯁ ꯑꯃꯁꯨꯡ ꯆꯤꯡ ꯂꯝꯕꯤ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Post-Matric Scholarship for ST Students", "mn": "ST ꯃꯍꯩꯔꯣꯏꯁꯤꯡꯒꯤ Post-Matric ꯁ꯭ꯀꯣꯂꯔꯁꯤꯞ" },
+    "target_group": { "en": "Scheduled Tribe College / University Students", "mn": "ST ꯀꯥꯡꯂꯨꯞꯀꯤ ꯀꯣꯂꯦꯖ ꯃꯍꯩꯔꯣꯏꯁꯤꯡ" },
+    "description": {
+      "en": "Tuition fee reimbursement and monthly living stipend for ST students pursuing post-matriculation courses whose parents' income < ₹2.5 Lakh.",
+      "mn": "ꯀꯣꯂꯦꯖꯗꯥ ꯇꯝꯂꯤꯕ ST ꯃꯍꯩꯔꯣꯏꯁꯤꯡꯒꯤ ꯀꯣꯔꯁ ꯐꯤ ꯑꯃꯁꯨꯡ ꯊꯥꯒꯤ ꯁꯦꯟꯊꯣꯛ ꯃꯇꯦꯡ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0120-6619540",
+    "criteria": { "occupation": "student", "category": ["ST"], "max_family_income": 250000, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Tribe Certificate issued by DC/SDO", "mn": "Tribe Certificate" },
+        "where_to_get": { "en": "Concerned SDO / DC Office", "mn": "SDO / DC ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Income Certificate (< ₹2.5L)", "mn": "ꯏꯅꯀꯝ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ (< ₹2.5L)" },
+        "where_to_get": { "en": "Revenue Department / e-Pramaan", "mn": "Revenue Department / e-Pramaan" }
+      },
+      {
+        "name": { "en": "Previous Marksheet & Admission Fee Receipt", "mn": "ꯃꯥꯔꯛꯁꯤꯠ ꯑꯃꯁꯨꯡ ꯐꯤ ꯔꯤꯁꯤꯠ" },
+        "where_to_get": { "en": "Enrolled College / Institution", "mn": "ꯃꯍꯩꯇꯝꯐꯝ ꯏꯟꯁꯇꯤꯠꯌꯨꯠ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Apply through the National Scholarship Portal (NSP) and submit printout for college verification.",
+      "mn": "National Scholarship Portal (NSP) ꯗꯥ ꯑꯣꯟꯂꯥꯏꯟ ꯑꯣꯏꯅ ꯑꯞꯂꯥꯏ ꯇꯧꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "National Scholarship Portal (NSP)",
+    "portal_url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "ED-02",
+    "department": { "en": "Minority & OBC Department (MOBC)", "mn": "MOBC ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Post-Matric Scholarship for SC & OBC Students", "mn": "SC ꯑꯃꯁꯨꯡ OBC ꯒꯤ Post-Matric ꯁ꯭ꯀꯣꯂꯔꯁꯤꯞ" },
+    "target_group": { "en": "Scheduled Caste & OBC Students", "mn": "SC ꯑꯃꯁꯨꯡ OBC ꯃꯍꯩꯔꯣꯏꯁꯤꯡ" },
+    "description": {
+      "en": "Course fee allowance and study grants for SC (income < ₹2.5L) and OBC (income < ₹1.5L) students pursuing higher secondary and degree studies.",
+      "mn": "SC ꯑꯃꯁꯨꯡ OBC ꯃꯍꯩꯔꯣꯏꯁꯤꯡꯒꯤ ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕꯒꯤ ꯁꯦꯟꯊꯣꯛ ꯃꯇꯦꯡ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2442078",
+    "criteria": { "occupation": "student", "category": ["SC", "OBC"], "max_family_income": 250000, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Caste / OBC Certificate", "mn": "Caste / OBC Certificate" },
+        "where_to_get": { "en": "SDO / DC Office", "mn": "SDO / DC ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Income Certificate", "mn": "ꯏꯅꯀꯝ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ" },
+        "where_to_get": { "en": "Revenue Department Manipur", "mn": "Revenue Department" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Submit online application through NSP or the State MOBC Scholarship Portal.",
+      "mn": "NSP ꯅꯠꯇ꯭ꯔꯒ MOBC ꯄꯣꯔꯇꯦꯜꯗꯥ ꯑꯞꯂꯥꯏ ꯇꯧꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Manipur MOBC Portal",
+    "portal_url": "https://mobcmanipur.gov.in"
+  },
+  {
+    "id": "ED-03",
+    "department": { "en": "Higher Education Department", "mn": "ꯍꯥꯌꯔ ꯑꯦꯖꯨꯀꯦꯁꯟ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Chief Minister’s College Maheiroi E-Support Scheme (CMCMES)", "mn": "Chief Minister’s College Maheiroi E-Support Scheme (CMCMES)" },
+    "target_group": { "en": "Meritorious Underprivileged College Students", "mn": "ꯂꯥꯏꯔꯕ ꯍꯩꯁꯤꯡꯕ ꯀꯣꯂꯦꯖ ꯃꯍꯩꯔꯣꯏꯁꯤꯡ" },
+    "description": {
+      "en": "Distribution of IT gadgets (smart tablets/laptops) and digital learning stipends to meritorious students enrolled in state government colleges.",
+      "mn": "ꯂꯩꯉꯥꯛꯀꯤ ꯀꯣꯂꯦꯖꯁꯤꯡꯗꯥ ꯇꯝꯂꯤꯕ ꯃꯍꯩꯔꯣꯏꯁꯤꯡꯗꯥ ꯐ꯭ꯔꯤ ꯇꯦꯕ꯭ꯂꯦꯠ/ꯂꯦꯞꯇꯣꯞ ꯑꯃꯁꯨꯡ ꯏ-ꯁꯄꯣꯔ꯭ꯠ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2451366",
+    "criteria": { "occupation": "student", "bpl_or_aay": true, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "College Identity Card & Admission Receipt", "mn": "ꯀꯣꯂꯦꯖ ID ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "Concerned Government College", "mn": "ꯃꯔꯤ ꯂꯩꯅꯕ ꯒꯕꯔ꯭ꯟꯃꯦꯟ꯭ꯇ ꯀꯣꯂꯦꯖ" }
+      },
+      {
+        "name": { "en": "Class 12 Passing Marksheet", "mn": "ꯀ꯭ꯂꯥꯁ ꯱꯲ ꯃꯥꯔꯛꯁꯤꯠ" },
+        "where_to_get": { "en": "COHSEM / Respective Board", "mn": "COHSEM" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Apply through the Directorate of University & Higher Education Manipur online notification portal.",
+      "mn": "Higher Education Directorate ꯄꯣꯔꯇꯦꯜꯗꯥ ꯑꯣꯟꯂꯥꯏꯟ ꯑꯣꯏꯅ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Higher Education Manipur",
+    "portal_url": "https://highereducationmanipur.gov.in"
+  },
+  {
+    "id": "AG-01",
+    "department": { "en": "Department of Agriculture", "mn": "ꯂꯧ-ꯎꯕ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Mission Organic Value Chain Development (MOVCDNER)", "mn": "Mission Organic Value Chain Development (MOVCDNER)" },
+    "target_group": { "en": "Small & Marginal Farmers / FPCs", "mn": "ꯂꯧꯃꯤꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯂꯧ-ꯎꯕ ꯀꯥꯡꯂꯨꯞꯁꯤꯡ" },
+    "description": {
+      "en": "End-to-end subsidy assistance for organic inputs, organic certification, packaging, cold storage, and market linkages.",
+      "mn": "ꯑꯣꯔꯒꯥꯅꯤꯛ ꯊꯥꯕ-ꯍꯧꯕꯒꯤ ꯃꯇꯦꯡ, ꯁꯥꯔ-ꯍꯤꯗꯥꯛ ꯑꯃꯁꯨꯡ ꯃꯥꯔꯀꯦꯠꯇꯥ ꯌꯣꯜꯍꯟꯕꯒꯤ ꯈꯨꯗꯣꯡꯆꯥꯕ꯫"
+    },
+    "helpline": "0385-2414443",
+    "criteria": { "occupation": "farmer", "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Land Record / Jamabandi / Patta Copy", "mn": "ꯂꯧꯎ-ꯄꯊꯨꯝꯒꯤ ꯄꯥꯠꯇꯥ / ꯖꯃꯥꯕꯟꯗꯤ" },
+        "where_to_get": { "en": "Directorate of Settlement & Land Records / SDO", "mn": "SDO / Land Records ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "PM-KISAN ID / Farmer Registration Card", "mn": "PM-KISAN ID / ꯂꯧꯃꯤ ꯔꯦꯖꯤꯁ꯭ꯇ꯭ꯔꯦꯁꯟ ꯀꯥꯔ꯭ꯗ" },
+        "where_to_get": { "en": "District Agriculture Officer (DAO)", "mn": "ꯗꯤꯁ꯭ꯇ꯭ꯔꯤꯛ ꯑꯦꯒ꯭ꯔꯤꯀꯂꯆꯔ ꯑꯣꯐꯤꯁ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Register via nearest District Agriculture Office (DAO) or through the registered Farmer Producer Company (FPC).",
+      "mn": "ꯗꯤꯁ꯭ꯇ꯭ꯔꯤꯛ ꯑꯦꯒ꯭ꯔꯤꯀꯂꯆꯔ ꯑꯣꯐꯤꯁ (DAO) ꯗꯥ ꯃꯔꯤ ꯂꯩꯅꯕ ꯐꯣꯔꯝ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Manipur Agriculture Portal",
+    "portal_url": "https://agrimanipur.gov.in"
+  },
+  {
+    "id": "AG-02",
+    "department": { "en": "Department of Agriculture", "mn": "ꯂꯧ-ꯎꯕ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "PM-KISAN Samman Nidhi (Manipur State)", "mn": "PM-KISAN ꯁꯝꯃꯥꯟ ꯅꯤꯙꯤ (Manipur)" },
+    "target_group": { "en": "Landholding Cultivators and Farming Families", "mn": "ꯂꯧ ꯂꯩꯕ ꯂꯧꯃꯤ ꯏꯃꯨꯡꯁꯤꯡ" },
+    "description": {
+      "en": "Direct income support of ₹6,000 per year transferred in three equal four-monthly installments into bank accounts.",
+      "mn": "ꯂꯧꯃꯤ ꯏꯃꯨꯡꯁꯤꯡꯗꯥ ꯆꯍꯤ ꯑꯃꯗꯥ ꯂꯨꯄꯥ ꯶,꯰꯰꯰ ꯊꯥ ꯃꯔꯤ-ꯃꯔꯤꯒꯤ ꯃꯇꯨꯡꯗꯥ ꯕꯦꯡꯛ ꯑꯦꯀꯥꯎꯟ꯭ꯇꯇꯥ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "155261 / 011-24300606",
+    "criteria": { "occupation": "farmer", "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Updated Land Record / Jamabandi", "mn": "ꯂꯧꯎ ꯄꯥꯠꯇꯥ / ꯖꯃꯥꯕꯟꯗꯤ" },
+        "where_to_get": { "en": "Revenue SDO Office", "mn": "SDO ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Aadhaar Card (e-KYC Completed)", "mn": "ꯑꯥꯙꯥꯔ (e-KYC)" },
+        "where_to_get": { "en": "Nearest CSC / PM-KISAN Portal", "mn": "CSC ꯁꯦꯟꯇꯔ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Self-register on PM-KISAN portal or visit your Block Agriculture Office / CSC Centre.",
+      "mn": "PM-KISAN ꯄꯣꯔꯇꯦꯜ ꯅꯠꯇ꯭ꯔꯒ CSC ꯁꯦꯟꯇꯔꯗꯥ ꯔꯦꯖꯤꯁ꯭ꯇꯔ ꯇꯧꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "PM KISAN National Portal",
+    "portal_url": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "TR-01",
+    "department": { "en": "Transport Department", "mn": "ꯇ꯭ꯔꯥꯟꯁꯄꯣꯔ꯭ꯠ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "MST Bus Free Travel Pass Concession Scheme", "mn": "MST ꯐ꯭ꯔꯤ ꯕꯁ ꯄꯥꯁ ꯁ꯭ꯀꯤꯝ (Transport)" },
+    "target_group": { "en": "Persons with Disabilities & Senior Citizens (65+)", "mn": "ꯁꯣꯊꯔꯕ ꯃꯤꯑꯣꯏꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯑꯍꯜ-ꯂꯃꯟꯁꯤꯡ" },
+    "description": {
+      "en": "100% fare waiver on Manipur State Transport (MST) urban and inter-district hill-valley transit routes.",
+      "mn": "ꯃꯅꯤꯄꯨꯔ ꯁ꯭ꯇꯦꯠ ꯇ꯭ꯔꯥꯟꯁꯄꯣꯔ꯭ꯠ (MST) ꯕꯁꯇꯥ ꯂꯝꯕꯤ-ꯆꯠꯊꯣꯛꯀꯤ ꯆꯥꯗꯥ ꯱꯰꯰ ꯐ꯭ꯔꯤ ꯄꯥꯁ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2451366",
+    "criteria": { "is_pwd": true, "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "UDID Card / Disability Certificate", "mn": "UDID ꯀꯥꯔ꯭ꯗ / Disability Certificate" },
+        "where_to_get": { "en": "District Hospital CMO / UDID Portal", "mn": "CMO ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Two Passport Sized Photographs", "mn": "ꯄꯥꯁꯄꯣꯔ꯭ꯠ ꯐꯣꯇꯣ (꯲)" },
+        "where_to_get": { "en": "Local Studio", "mn": "ꯐꯣꯇꯣ ꯁ꯭ꯇꯨꯗꯤꯑꯣ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Apply at the MST Central Bus Station Counter, Moirangkhom, Imphal with copy of UDID card.",
+      "mn": "MST ꯕꯁ ꯁ꯭ꯇꯦꯁꯟ, ꯃꯣꯏꯔꯥꯡꯈꯣꯝ, ꯏꯝꯐꯥꯜꯗꯥ UDID ꯀꯣꯄꯤ ꯂꯣꯏꯅꯅ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Manipur Transport Portal",
+    "portal_url": "https://manipurtransport.mn.gov.in"
+  },
+  {
+    "id": "YAS-01",
+    "department": { "en": "Youth Affairs & Sports Department", "mn": "ꯌꯨꯊ ꯑꯦꯐꯦꯌꯔꯁ ꯑꯦꯟꯗ ꯁ꯭ꯄꯣꯔ꯭ꯠꯁ" },
+    "name": { "en": "Cash Incentive Award to Outstanding Sportspersons", "mn": "ꯁꯥꯟꯅꯔꯣꯏꯁꯤꯡꯒꯤ ꯀꯦꯁ ꯏꯟꯁꯦꯟꯇꯤꯚ ꯑꯦꯋꯥꯔ꯭ꯗ" },
+    "target_group": { "en": "National and International Medalist Athletes", "mn": "ꯅꯦꯁ꯭ꯅꯦꯜ ꯑꯃꯁꯨꯡ ꯏꯟꯇꯔꯅꯦꯁ꯭ꯅꯦꯜ ꯁꯥꯟꯅꯔꯣꯏꯁꯤꯡ" },
+    "description": {
+      "en": "Lump-sum monetary prizes ranging from ₹50,000 up to ₹1 Crore for medalists representing Manipur in National and Olympic Games.",
+      "mn": "ꯃꯅꯤꯄꯨꯔꯒꯤ ꯃꯃꯤꯡ ꯆꯠꯍꯜꯂꯕ ꯁꯥꯟꯅꯔꯣꯏꯁꯤꯡꯗꯥ ꯂꯨꯄꯥ ꯵꯰,꯰꯰꯰ ꯗꯒꯤ ꯀ꯭ꯔꯣꯔ ꯱ ꯐꯥꯎꯕꯒꯤ ꯁꯦꯟꯊꯣꯛ ꯃꯅꯥ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2445123",
+    "criteria": { "occupation": "athlete", "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Official Tournament Medal Certificate", "mn": "ꯇꯨꯔ꯭ꯅꯥꯃꯦꯟ꯭ꯇ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ / ꯃꯦꯗꯜ ꯔꯦꯀꯣꯔ꯭ꯗ" },
+        "where_to_get": { "en": "Recognized National/State Sports Federation", "mn": "ꯃꯔꯤ ꯂꯩꯅꯕ ꯁ꯭ꯄꯣꯔ꯭ꯠꯁ ꯐꯦꯗꯔꯦꯁꯟ" }
+      },
+      {
+        "name": { "en": "Domicile Certificate", "mn": "ꯃꯅꯤꯄꯨꯔ Domicile Certificate" },
+        "where_to_get": { "en": "DC Office", "mn": "DC ꯑꯣꯐꯤꯁ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Submit achievement dossier to Directorate of Youth Affairs & Sports, Khuman Lampak Sports Complex, Imphal.",
+      "mn": "ꯈꯨꯃꯟ ꯂꯝꯄꯥꯛ ꯁ꯭ꯄꯣꯔ꯭ꯠꯁ ꯀꯃꯄ꯭ꯂꯦꯛꯁ, ꯏꯝꯐꯥꯜꯗꯥ ꯂꯩꯕ YAS ꯗꯤꯔꯦꯛꯇꯣꯔꯦꯠꯇꯥ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "YAS Manipur Portal",
+    "portal_url": "https://yasmanipur.nic.in"
+  },
+  {
+    "id": "ST-01",
+    "department": { "en": "Planning & IT Department", "mn": "ꯄ꯭ꯂꯥꯅꯤꯡ ꯑꯃꯁꯨꯡ IT ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Manipur StartUp Scheme 2.0 (Idea / POC Stage)", "mn": "Manipur StartUp 2.0 (Idea / POC Stage)" },
+    "target_group": { "en": "Unemployed Youth, Innovators & Early Entrepreneurs", "mn": "ꯅꯍꯥꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯏꯅꯣꯚꯦꯇꯔꯁꯤꯡ" },
+    "description": {
+      "en": "Seed funding subsidy of up to ₹3,00,000 for proof of concept and prototype development, plus venture fund backing via NEDFi.",
+      "mn": "ꯑꯅꯧꯕ ꯂꯂꯣꯟ-ꯏꯇꯤꯛ ꯍꯧꯅꯕ ꯂꯨꯄꯥ ꯂꯥꯈ ꯳ ꯐꯥꯎꯕꯒꯤ ꯁꯤꯗ ꯒ꯭ꯔꯥꯟ꯭ꯇ ꯑꯃꯁꯨꯡ NEDFi ꯒꯤ ꯃꯇꯦꯡ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2451366 / startupmanipur@gmail.com",
+    "criteria": { "min_age": 18, "occupation": "unemployed", "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "Brief Business / Idea Pitch Proposal", "mn": "ꯕꯤꯖꯅꯦꯁ ꯄ꯭ꯔꯣꯄꯣꯖꯦꯜ" },
+        "where_to_get": { "en": "Self-Prepared Presentation / Document", "mn": "ꯃꯁꯥꯅ ꯁꯦꯝꯖꯕ" }
+      },
+      {
+        "name": { "en": "Permanent Resident Certificate (PRC)", "mn": "PRC Certificate" },
+        "where_to_get": { "en": "SDO Office", "mn": "SDO ꯑꯣꯐꯤꯁ" }
+      },
+      {
+        "name": { "en": "Highest Educational Qualification Marksheet", "mn": "ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕꯒꯤ ꯃꯥꯔꯛꯁꯤꯠ" },
+        "where_to_get": { "en": "Board / University", "mn": "ꯌꯨꯅꯤꯚꯔꯁꯤꯇꯤ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Register and submit online proposal during open rounds on the official Manipur StartUp Portal.",
+      "mn": "Manipur StartUp Portal ꯗꯥ ꯑꯣꯟꯂꯥꯏꯟ ꯑꯣꯏꯅ ꯑꯞꯂꯥꯏ ꯇꯧꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Manipur StartUp Portal",
+    "portal_url": "https://startupmanipur.in"
+  },
+  {
+    "id": "LB-01",
+    "department": { "en": "Labour & Employment Department", "mn": "ꯂꯦꯕꯔ ꯑꯃꯁꯨꯡ ꯊꯕꯛ-ꯁꯨꯃꯥꯡ ꯗꯤꯄꯥꯔ꯭ꯇꯃꯦꯟ꯭ꯇ" },
+    "name": { "en": "Manipur Building & Other Construction Workers (MBOCWWB) Assistance", "mn": "MBOCWWB ꯅꯣꯡꯃꯩ-ꯂꯧꯃꯤ ꯁꯤꯟꯃꯤꯁꯤꯡꯒꯤ ꯇꯦꯡꯕꯥꯡ" },
+    "target_group": { "en": "Registered Construction Laborers & Daily Wage Artisans", "mn": "ꯔꯦꯖꯤꯁ꯭ꯇꯔ ꯇꯧꯔꯕ ꯁꯤꯟꯃꯤꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯅꯣꯡꯃꯒꯤ ꯁꯦꯟꯊꯣꯛ ꯊꯤꯕꯁꯤꯡ" },
+    "description": {
+      "en": "Annual children's education stipend (₹3,000–₹12,000), marriage assistance (₹15,000), and ₹1,00,000 accidental medical coverage for registered workers.",
+      "mn": "ꯔꯦꯖꯤꯁ꯭ꯇꯔ ꯇꯧꯔꯕ ꯁꯤꯟꯃꯤꯁꯤꯡꯒꯤ ꯃꯆꯥꯁꯤꯡꯒꯤ ꯂꯥꯏꯔꯤꯛ ꯇꯝꯕꯒꯤ ꯃꯇꯦꯡ, ꯂꯨꯍꯣꯡꯕꯒꯤ ꯃꯇꯦꯡ ꯑꯃꯁꯨꯡ ꯍꯤꯗꯥꯛ-ꯂꯥꯡꯊꯛ ꯀꯚꯔ ꯄꯤꯕꯥ꯫"
+    },
+    "helpline": "0385-2441187",
+    "criteria": { "occupation": "daily wage / artisan", "domicile": "Manipur" },
+    "documents_required": [
+      {
+        "name": { "en": "MBOCWWB Worker Registration Passbook", "mn": "MBOCWWB ꯔꯦꯖꯤꯁ꯭ꯇ꯭ꯔꯦꯁꯟ ꯄꯥꯁꯕꯨꯛ" },
+        "where_to_get": { "en": "District Labour Office, Lamphelpat", "mn": "District Labour Office, Lamphelpat" }
+      },
+      {
+        "name": { "en": "90-Day Construction Work Certificate", "mn": "ꯅꯨꯃꯤꯠ ꯹꯰ ꯊꯕꯛ ꯁꯨꯕꯒꯤ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ" },
+        "where_to_get": { "en": "Registered Contractor / Local Authority", "mn": "ꯀꯟꯇ꯭ꯔꯥꯛꯇꯔ / ꯂꯣꯀꯦꯜ ꯑꯣꯊꯣꯔꯤꯇꯤ" }
+      }
+    ],
+    "application_procedure": {
+      "en": "Apply through the District Labour Officer or the State MBOCWWB Portal.",
+      "mn": "ꯗꯤꯁ꯭ꯇ꯭ꯔꯤꯛ ꯂꯦꯕꯔ ꯑꯣꯐꯤꯁꯇꯥ ꯄꯥꯁꯕꯨꯛ ꯂꯣꯏꯅꯅ ꯄꯤꯁꯤꯟꯕꯤꯌꯨ꯫"
+    },
+    "portal_name": "Manipur Labour Board Portal",
+    "portal_url": "https://labour.mn.gov.in"
+  }
+]
