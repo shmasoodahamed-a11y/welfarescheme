@@ -4,7 +4,7 @@ import os
 import socketserver
 import secrets
 
-PORT = 8000
+PORT = int(os.environ.get("PORT", 8000))
 DATA_FILE = os.path.join(os.path.dirname(__file__), "data", "schemes.json")
 STATIC_HTML = os.path.join(os.path.dirname(__file__), "static", "index.html")
 
